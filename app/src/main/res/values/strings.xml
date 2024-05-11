@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Items</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1s diklik!</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="nama">Nama</string>
+    <string name="stok">Stok</string>
+    <string name="harga">Harga</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_barang">Ubah Barang</string>
+    <string name="invalid">Nama, stok dan harga tidak boleh kosong</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus_barang">Hapus barang</string>
+    <string name="pesan_hapus">Hapus barang ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
